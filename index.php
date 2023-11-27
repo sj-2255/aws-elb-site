@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
 
-    <title>Project TheFurbaby Dot Me - Ansible handler</title>
+    <title>Project TheFurbaby Dot Me - Ansible handler with role</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -36,7 +36,7 @@ https://www.tooplate.com/view/2114-pixie
                <?php
 $output = shell_exec('echo $HOSTNAME');
 echo "<h1><center><pre>$output</pre></center></h1>";
-echo "<h1><center>Project TheFurbaby Dot Me Version - Ansible handler</center></h1>"
+echo "<h1><center>Project TheFurbaby Dot Me Version - Ansible handler with role </center></h1>"
 ?>
             </span>
           </div>
